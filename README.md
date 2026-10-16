@@ -2,7 +2,7 @@
 
 I am an aspiring cyber security professional. I enjoy understanding how systems work, how they break and trying to find ways to make them more secure. I let my curiosity guide me through this never-ending learning path that is cyber security. 
 
-I don’t have a degree in IT,  honestly I didn’t even finish my own major (which was Korean Language And Literature) simply because I didn’t find it interesting and fullfiling enough. In my last year just I was about to hand in my thesis, and some other classes, I found a different path, I went into development. I took classes, worked for hours, still was lacking but I started to apply. I worked as a front-end developer for a couple of months even did some freelance jobs. 
+I don’t have a degree in IT. My major  was Korean Language And Literature which I didn’t find it interesting or fullfiling enough. In my last year just I was about to hand in my thesis, and some other classes, I found a different path, I went into development. I took classes, worked for hours, still was lacking but I started to apply. I worked as a front-end developer for a couple of months even did some freelance jobs. 
 
 But it’s like Gloria Estefan said: “**Rhythm is gonna get you.” I discovered a path that I know it’s going to the hardest but also the most satisfying: Cyber security. A never ending chaos in the midst of a world that keeps changing. This also meant that I will never stop learning which is my ultimate goal in life.**
 
